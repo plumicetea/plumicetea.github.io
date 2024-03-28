@@ -1,4 +1,7 @@
-<body>
-<img src="123.jpg">
-<img src="123.jpg" height="300" width="300">
-</body>
+<!doctype html>
+<html>
+    <head>
+    </ul>
+    超連結網址:<a href="https://plumicetea.github.io/images/123.jpg.webp">超連結圖片</a>
+    </head>   
+</html>
